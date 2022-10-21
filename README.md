@@ -30,7 +30,7 @@
 ### Overview
 This special edition of Archcraft comes with [`Sway`](https://github.com/archcraft-os/archcraft-sway), [`Wayfire`](https://github.com/archcraft-os/archcraft-wayfire), [`River`](https://github.com/archcraft-os/archcraft-river), [`Hyprland`](https://github.com/archcraft-os/archcraft-hyprland) and [`Newm`](https://github.com/archcraft-os/archcraft-newm) pre-installed, pre-configured and provides you a wayland only Linux experience.
 
-**ISO Generation :** `October 20th, 2022`
+**ISO Generation :** `October 20th, 2022` <br>
 **Last Updated :** `October 20th, 2022`
 
 #### Changelog :
