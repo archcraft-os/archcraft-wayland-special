@@ -42,7 +42,6 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 - Bug fixes, etc
 
 #
-<br>
 
 ### Changelog (October 2022) : 1st ISO
 - Created the ISO base from scratch
@@ -71,7 +70,7 @@ You can download the latest `ISO` from [ko-fi :coffee:](https://ko-fi.com/s/213b
 
 ---
 
-For Graphical Installation Instructions, See [Install Archcraft With Calamares](https://wiki.archcraft.io/docs/install-archcraft/install-with-calamares)
+For Graphical Installation Instructions, See [Install Archcraft With Calamares](https://wiki.archcraft.io/docs/install-archcraft/install-with-calamares)<br>
 For CLI (abif) Installation Instructions, See [Install Archcraft With ABIF](https://wiki.archcraft.io/docs/install-archcraft/install-with-abif)
 
 **`NOTE :`** This ISO does not work with **VMs (Virtualbox, VMware, Qemu, ect)**. I mean it does, but you won't pass SDDM as wayland compositors still not works with VMs.
