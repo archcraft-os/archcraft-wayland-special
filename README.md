@@ -24,16 +24,27 @@
 
 - [Things To Do After Installing Archcraft](https://wiki.archcraft.io/docs/install-archcraft/post-install)
 - [Install Archcraft With Calamares](https://wiki.archcraft.io/docs/install-archcraft/install-with-calamares)
+- [Install Archcraft With ABIF](https://wiki.archcraft.io/docs/install-archcraft/install-with-abif)
 - [Create A Bootable USB With Archcraft](https://wiki.archcraft.io/docs/boot-iso/boot-with-usb)
 - [Boot Archcraft ISO With GRUB2 Bootloader](https://wiki.archcraft.io/docs/boot-iso/boot-with-grub)
 
 ### Overview
 This special edition of Archcraft comes with [`Sway`](https://github.com/archcraft-os/archcraft-sway), [`Wayfire`](https://github.com/archcraft-os/archcraft-wayfire), [`River`](https://github.com/archcraft-os/archcraft-river), [`Hyprland`](https://github.com/archcraft-os/archcraft-hyprland) and [`Newm`](https://github.com/archcraft-os/archcraft-newm) pre-installed, pre-configured and provides you a wayland only Linux experience.
 
-**ISO Generation :** `October 20th, 2022` <br>
-**Last Updated :** `October 20th, 2022`
+**1st ISO Generation :** `October 20th, 2022` <br>
+**2nd ISO Generation :** `January 10th, 2023` <br>
+**Last Updated :** `January 10th, 2023`
 
-#### Changelog :
+### Changelog (January 2023) : 2nd ISO
+- Added ABIF (CLI) installer
+- Updated the base system
+- Updated All the compositors
+- Bug fixes, etc
+
+#
+<br>
+
+### Changelog (October 2022) : 1st ISO
 - Created the ISO base from scratch
 - Grub2 bootloader with themes
 - Customized Plymouth & SDDM
@@ -60,18 +71,17 @@ You can download the latest `ISO` from [ko-fi :coffee:](https://ko-fi.com/s/213b
 
 ---
 
-For Installation Instructions, See [Install Archcraft With Calamares](https://wiki.archcraft.io/docs/install-archcraft/install-with-calamares)
+For Graphical Installation Instructions, See [Install Archcraft With Calamares](https://wiki.archcraft.io/docs/install-archcraft/install-with-calamares)
+For CLI (abif) Installation Instructions, See [Install Archcraft With ABIF](https://wiki.archcraft.io/docs/install-archcraft/install-with-abif)
 
-**`NOTE :`** If you want to try this ISO in ***Virtualbox***, Make sure you use `VMSVGA` as Graphics Controller and Check `Enable 3D Acceleration` box. If the cursor is not visible, Add `export WLR_NO_HARDWARE_CURSORS=1` in your `~/.profile` file. 
-
-**More info :** [No mouse cursor visible on VirtualBox](https://github.com/swaywm/sway/issues/3814)
+**`NOTE :`** This ISO does not work with **VMs (Virtualbox, VMware, Qemu, ect)**. I mean it does, but you won't pass SDDM as wayland compositors still not works with VMs.
 
 #
 <br>
 
-**`WARNING :`** This ISO may or may not work with `Nvidia` (*using proprietary graphics drivers*)
+**`WARNING :`** This ISO will not work with `Nvidia` (*using proprietary graphics drivers*)
 
-**More info :** [Sway Installation](https://wiki.archlinux.org/title/Sway#Installation), [wayland Requirements](https://wiki.archlinux.org/title/wayland#Requirements)
+**More info :** [Sway Installation](https://wiki.archlinux.org/title/Sway#Installation), [Hyprland Nvidia](https://wiki.hyprland.org/0.19.2beta/Nvidia), [wayland Requirements](https://wiki.archlinux.org/title/wayland#Requirements)
 
 ---
 
