@@ -33,7 +33,28 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 
 **1st ISO Generation :** `October 20th, 2022` <br>
 **2nd ISO Generation :** `January 10th, 2023` <br>
-**Last Updated :** `January 10th, 2023`
+**3rd ISO Generation :** `April 15th, 2023` <br>
+**Last Updated :** `April 15th, 2023`
+
+### Changelog (April 2023) : 3rd ISO
+- Using `sddm-git` now, Solved shutdown/reboot issue
+- Using new method to boot the ISO on Nvidia Machines
+- Updated the Installers with (possible) Nvidia support
+- Updated the base system with latest packages
+- **`Updated All the wayland compositors`**
+  - Updated the config structure
+  - Added Rofi menu, applets and scripts (network, music, etc)
+  - Fixed area screenshot overlay issue
+  - Fixed nerwork-applet overlay issue in hyprland
+  - Modified the configs for waybar, wlogout and wofi (added separate colors.css file)
+  - Changes gtk themes in sway, wayfire and hyprland
+  - Updated lockscreen script in sway
+  - Added two packages for NEWM (one normal and one blur)
+  - Added spotify module in waybar in all WCs
+  - Animated MPD and spotify modules in waybar
+- Many Bug fixes, etc
+
+#
 
 ### Changelog (January 2023) : 2nd ISO
 - Added ABIF (CLI) installer
@@ -67,20 +88,26 @@ You can download the latest `ISO` from [ko-fi :coffee:](https://ko-fi.com/s/213b
 
 > Default `username` and `password` is **liveuser**.
 
-
----
-
 For Graphical Installation Instructions, See [Install Archcraft With Calamares](https://wiki.archcraft.io/docs/install-archcraft/install-with-calamares)<br>
 For CLI (abif) Installation Instructions, See [Install Archcraft With ABIF](https://wiki.archcraft.io/docs/install-archcraft/install-with-abif)
 
-**`NOTE :`** This ISO does not work with **VMs (Virtualbox, VMware, Qemu, ect)**. I mean it does, but you won't pass SDDM as wayland compositors still not works with VMs.
+---
+
+**`WARNING : VM -`** This ISO does not work with **VMs (Virtualbox, VMware, Qemu, etc)**. I mean it does but... on some, you won't pass the login screen (SDDM) and on some, the compositors will be very laggy due to poor 3D support.
 
 #
 <br>
 
-**`WARNING :`** This ISO will not work with `Nvidia` (*using proprietary graphics drivers*)
+**`WARNING : Nvidia -`** There is no official support for Nvidia. Unfortunately, their drivers are so messy, and their products so random, that it’s impossible to help if the ISO don’t work on your machine. Every card seems to be random, and might work perfectly, or not work at all. However...<br>
+The `lastest ISO (April 15th)` have everything configured **out-of-the-box**, Needed to run a _wayland compositor_ on **Nvidia**. It has all the needed modules enabled into `mkinitcpio.conf` and **initrd**, `Kernel parameters` are added, and the needed proprietary graphics drivers installed.<br>
+Now, It's your choise to give it a try.
 
-**More info :** [Sway Installation](https://wiki.archlinux.org/title/Sway#Installation), [Hyprland Nvidia](https://wiki.hyprland.org/0.19.2beta/Nvidia), [wayland Requirements](https://wiki.archlinux.org/title/wayland#Requirements)
+**More info :** [Sway Installation](https://wiki.archlinux.org/title/Sway#Installation), [Hyprland Nvidia](https://wiki.hyprland.org/Nvidia/), [wayland Requirements](https://wiki.archlinux.org/title/wayland#Requirements), [DRM_kernel_mode_setting](https://wiki.archlinux.org/title/NVIDIA#DRM_kernel_mode_setting), [NVIDIA#Installation](https://wiki.archlinux.org/title/NVIDIA#Installation)
+
+#
+<br>
+
+**`WARNING : Iris XE -`** Some users reported that, This ISO does not work on systems with `Intel Iris XE` GPUs.
 
 ---
 
@@ -161,5 +188,6 @@ For CLI (abif) Installation Instructions, See [Install Archcraft With ABIF](http
 
 ---
 
+- For **Keybindings**, Visit the respective compositor page.
 - I Hope you'll enjoy this flavor of Archcraft.
 - Thank you for supporting Archcraft.
