@@ -120,13 +120,9 @@ Now, It's your choise to give it a try.
 <details>
 <summary><b>Sway</b></summary>
 
-| App Launcher (wofi) | Terminal (foot) | Tile Mode | Floating Mode |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 | --- | --- | --- | --- |
 |![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_1.png)|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_2.png)|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_3.png)|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_4.png)|
-
-| Running thunar, geany and ranger | Running vim, ncmpcpp and ranger | Another tile mode | Wlogout |
-| --- | --- | --- | --- |
-|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_5.png)|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_6.png)|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_7.png)|![sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_8.png)|
 
 </details>
 
@@ -135,9 +131,9 @@ Now, It's your choise to give it a try.
 <details>
 <summary><b>Wayfire</b></summary>
 
-| Wayfire |
-| --- |
-|![wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshot.png)|
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 |
+| --- | --- | --- | --- | --- |
+|![wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshots/wayfire_1.png)|![wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshots/wayfire_2.png)|![wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshots/wayfire_3.png)|![wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshots/wayfire_4.png)|![wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshots/wayfire_5.png)|
 
 </details>
 
@@ -146,13 +142,9 @@ Now, It's your choise to give it a try.
 <details>
 <summary><b>River</b></summary>
 
-| App Launcher (wofi) | Powermenu (wofi applet) | Terminal (foot) | Floating Mode (thunar, geany, fetch) |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 | --- | --- | --- | --- |
-|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_1.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_2.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_3.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_4.png)|
-
-| Tile Layout 1 | Tile Layout 2 | Tile Layout 3 | Tile Layout 4 |
-| --- | --- | --- | --- |
-|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_5.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_6.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_7.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_8.png)|
+|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/river_1.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/river_2.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/river_3.png)|![river](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/river_4.png)|
 
 </details>
 
@@ -161,9 +153,9 @@ Now, It's your choise to give it a try.
 <details>
 <summary><b>Hyprland</b></summary>
 
-| Desktop (wofi) | Floating | Tiled | Thunar, Geany | Wlogout |
-| --- | --- | --- | --- | --- |
-|![hypr](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_1.png)|![hypr](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_2.png)|![hypr](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_3.png)|![hypr](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_4.png)|![hypr](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_5.png)|
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+| --- | --- | --- | --- |
+|![hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_1.png)|![hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_2.png)|![hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_3.png)|![hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_4.png)|
 
 </details>
 
@@ -172,13 +164,9 @@ Now, It's your choise to give it a try.
 <details>
 <summary><b>Newm</b></summary>
 
-| Desktop | Tiles | Wofi |
-| --- | --- | --- |
-|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_1.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_2.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_3.png)|
-
-| Lockscreen | Overview | Wlogout |
-| --- | --- | --- |
-|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_4.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_5.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_6.png)|
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 |
+| --- | --- | --- | --- | --- |
+|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/blur/newm_1.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/blur/newm_2.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/blur/newm_3.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/blur/newm_4.png)|![newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/blur/newm_5.png)|
 
 </details>
 
@@ -186,7 +174,7 @@ Now, It's your choise to give it a try.
 
 | Sway | Wayfire | River | Hyprland | Newm |
 | --- | --- | --- | --- | --- |
-|[![Sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_6.png)](https://youtu.be/ASlQcf8Jc0I)|[![Wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshot.png)](https://youtube.com/playlist?list=PLXH9dADRlWHYk_5Boqiu7L3HcLVC83TWU)|[![River](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_4.png)](https://youtu.be/MwnK6arB2Rc)|[![Hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_2.png)](https://youtu.be/t6Zd2F7rtPw)|[![Newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_5.png)](https://youtube.com/playlist?list=PLXH9dADRlWHaXM3Q8G_gaunljITif3cUl)|
+|[![Sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_4.png)](https://youtu.be/ASlQcf8Jc0I)|[![Wayfire](https://raw.githubusercontent.com/archcraft-os/archcraft-wayfire/main/screenshots/wayfire_4.png)](https://youtube.com/playlist?list=PLXH9dADRlWHYk_5Boqiu7L3HcLVC83TWU)|[![River](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/river_4.png)](https://youtu.be/MwnK6arB2Rc)|[![Hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_4.png)](https://youtu.be/t6Zd2F7rtPw)|[![Newm](https://raw.githubusercontent.com/archcraft-os/archcraft-newm/main/screenshots/solid/newm_5.png)](https://youtube.com/playlist?list=PLXH9dADRlWHaXM3Q8G_gaunljITif3cUl)|
 
 ---
 
