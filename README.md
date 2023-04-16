@@ -102,6 +102,8 @@ For CLI (abif) Installation Instructions, See [Install Archcraft With ABIF](http
 The `lastest ISO (April 15th)` have everything configured **out-of-the-box**, Needed to run a _wayland compositor_ on **Nvidia**. It has all the needed modules enabled into `mkinitcpio.conf` and **initrd**, `Kernel parameters` are added, and the needed proprietary graphics drivers installed.<br>
 Now, It's your choise to give it a try.
 
+**Update:** As Reported, Users are able to boot and Install the Latest ISO (April) on their Nvidia Machines. Everything is working fine.
+
 **More info :** [Sway Installation](https://wiki.archlinux.org/title/Sway#Installation), [Hyprland Nvidia](https://wiki.hyprland.org/Nvidia/), [wayland Requirements](https://wiki.archlinux.org/title/wayland#Requirements), [DRM_kernel_mode_setting](https://wiki.archlinux.org/title/NVIDIA#DRM_kernel_mode_setting), [NVIDIA#Installation](https://wiki.archlinux.org/title/NVIDIA#Installation)
 
 #
