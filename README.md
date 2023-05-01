@@ -34,7 +34,17 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 **1st ISO Generation :** `October 20th, 2022` <br>
 **2nd ISO Generation :** `January 10th, 2023` <br>
 **3rd ISO Generation :** `April 15th, 2023` <br>
-**Last Updated :** `April 15th, 2023`
+**4th ISO Generation :** `May 1st, 2023` <br>
+**Last Updated :** `May 1st, 2023`
+
+<details>
+<summary><b>Changelogs</b></summary>
+
+### Changelog (May 2023) : 4th ISO
+- Fixed pacman-init issue
+- Added ability to choose desktop in the installer (calamares)
+- Fixed auto-login issue
+- etc
 
 ### Changelog (April 2023) : 3rd ISO
 - Using `sddm-git` now, Solved shutdown/reboot issue
@@ -81,6 +91,8 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 - Multiple Wayland Compositors (Sway, Wayfire, River, Hyprland, Newm)
 - Archcraft Icons, Themes, Wallpapers, Fonts
 - Etc
+
+</details>
 
 ### Get The ISO
 
