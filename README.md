@@ -34,8 +34,8 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 **1st ISO Generation :** `October 20th, 2022` <br>
 **2nd ISO Generation :** `January 10th, 2023` <br>
 **3rd ISO Generation :** `April 15th, 2023` <br>
-**4th ISO Generation :** `May 1st, 2023` <br>
-**Last Updated :** `May 1st, 2023`
+**4th ISO Generation :** `May 6th, 2023` <br>
+**Last Updated :** `May 6th, 2023`
 
 <details>
 <summary><b>Changelogs</b></summary>
