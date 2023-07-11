@@ -35,16 +35,37 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 **2nd ISO Generation :** `January 10th, 2023` <br>
 **3rd ISO Generation :** `April 15th, 2023` <br>
 **4th ISO Generation :** `May 6th, 2023` <br>
-**Last Updated :** `May 6th, 2023`
+**5th ISO Generation :** `July 11th, 2023` <br>
+**Last Updated :** `July 11th, 2023`
 
 <details>
 <summary><b>Changelogs</b></summary>
+
+### Changelog (July 2023) : 5th ISO
+- Updated ISO profile with latest archiso
+- Latest base with new packages
+- Fixed sddm not saving the last used session issue
+- Added a calculator app
+- Added Welcome and Help-and-Tips App
+- Fixed Scaling issue in QT apps in wayland
+- **`Sway, Wayfire, River, Hyprland`**
+  - Added `bluetooth` module on Waybar
+  - Added a rofi `bluetooth` applet
+  - Added `alacritty` terminal
+  - Added `pywal` support
+  - Improved a lot of scripts
+  - etc
+- Many small bugs fixed.
+
+#
 
 ### Changelog (May 2023) : 4th ISO
 - Fixed pacman-init issue
 - Added ability to choose desktop in the installer (calamares)
 - Fixed auto-login issue
 - etc
+
+#
 
 ### Changelog (April 2023) : 3rd ISO
 - Using `sddm-git` now, Solved shutdown/reboot issue
@@ -190,6 +211,6 @@ Now, It's your choise to give it a try.
 
 ---
 
-- For **Keybindings**, Visit the respective compositor page.
+- For **Keybindings**, See `Help and Tips` app.
 - I Hope you'll enjoy this flavor of Archcraft.
 - Thank you for supporting Archcraft.
