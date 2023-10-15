@@ -36,10 +36,27 @@ This special edition of Archcraft comes with [`Sway`](https://github.com/archcra
 **3rd ISO Generation :** `April 15th, 2023` <br>
 **4th ISO Generation :** `May 6th, 2023` <br>
 **5th ISO Generation :** `July 11th, 2023` <br>
-**Last Updated :** `July 11th, 2023`
+**6th ISO Generation :** `October 15th, 2023` <br>
+**Last Updated :** `October 15th, 2023`
 
 <details>
 <summary><b>Changelogs</b></summary>
+
+### Changelog (October 2023) : 6th ISO
+- Updated ISO profile
+- Latest base with new packages
+- Updated all wayland compositors
+  - Added better example for multi-monitor support in...
+    - Sway: `~/.config/sway/sway-output`
+    - Wayfire: `~/.config/wayfire.ini`
+    - River: `~/.config/river/init`
+    - Hyprland: `~/.config/hypr/hyprland.conf`
+    - Newm: `~/.config/newm/config.py`
+- Added `wipe` ability in ABIF
+- Fixed issue with `help and tips` app
+- Small improvements and bugs fixed.
+
+#
 
 ### Changelog (July 2023) : 5th ISO
 - Updated ISO profile with latest archiso
